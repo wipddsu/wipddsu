@@ -4,6 +4,8 @@
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-00CC00?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000066?style=flat-square&logo=mongodb&logoColor=33FF33"/>
 
+
+![Wipddsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 <!--
 **wipddsu/wipddsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
