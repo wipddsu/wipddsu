@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### Skills
-<img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/><img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&logo=React&logoColor=black"/>
 
 <!--
 **wipddsu/wipddsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
