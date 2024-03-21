@@ -2,9 +2,9 @@
 
 ## Skills
 ### Languages
-<img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-00CC00?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000066?style=flat-square&logo=mongodb&logoColor=33FF33"/>
+<img src="https://img.shields.io/badge/Javascript-FFFF00?style=flat-square&logo=Javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-00CC00?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000066?style=flat-square&logo=mongodb&logoColor=33FF33"/> <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
 ### Tools
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
 ![Wipddsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wipddsu&show_icons=true&theme=radical)
